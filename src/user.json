@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fName": "Harsh",
+      "lName": "Kothari",
+      "uName": "harshkothari.hk",
+      "Email": "harsh@gmail.com",
+      "Pass": "harsh123",
+      "TaskList": [
+        {
+          "title": "Working",
+          "priority": "4",
+          "flag": false
+        },
+        {
+          "title": "watching movie",
+          "priority": "5",
+          "flag": false
+        }
+      ]
+    },
+    {
+      "fName": "Rahul",
+      "lName": "Sharma",
+      "uName": "rahul123",
+      "Email": "rahul@gmail.com",
+      "Pass": "Rahul@123",
+      "TaskList": [
+        {
+          "title": "dfrgretty",
+          "priority": "4",
+          "flag": false
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
